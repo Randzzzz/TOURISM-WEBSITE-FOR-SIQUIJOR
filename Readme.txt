@@ -1,3 +1,5 @@
+Some images need to upload due to specific custom sizes
+
 Thanks for downloading this template!
 
 Template Name: KnightOne
